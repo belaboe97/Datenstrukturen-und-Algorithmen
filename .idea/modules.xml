@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Datastructures and Algorithm.iml" filepath="$PROJECT_DIR$/Datastructures and Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wdhl_Aufgaben/Wdhl_Aufgaben.iml" filepath="$PROJECT_DIR$/Wdhl_Aufgaben/Wdhl_Aufgaben.iml" />
+    </modules>
+  </component>
+</project>
